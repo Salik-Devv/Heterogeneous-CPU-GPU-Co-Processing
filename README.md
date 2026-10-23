@@ -160,10 +160,8 @@ Paper is currently under review; citation details will be updated on acceptance.
 
 ```
 Mohammad Salik Dev, "Performance and Bottleneck Analysis of Heterogeneous CPU-GPU Co-Processing
-for Data-Parallel Workloads," in submission, ICMACC 2026.
+for Data-Parallel Workloads," in submission.
 ```
 
-## License
 
-No license file yet. Add one (MIT/BSD-3-Clause/Apache-2.0 are common choices for research code)
-before making the repo public — without one, GitHub's default all-rights-reserved terms apply.
+
